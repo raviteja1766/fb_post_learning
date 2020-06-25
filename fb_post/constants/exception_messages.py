@@ -1,0 +1,9 @@
+INVALID_POST_EXCEPTION = (
+    "Please send valid post id", "INVALID_POST_EXCEPTION"
+)
+INVALID_COMMENT_EXCEPTION = (
+    "Please send valid comment id", "INVALID_COMMENT_EXCEPTION"
+)
+USER_CANNOT_DELETE_POST_EXCEPTION = (
+    "Please send Original Post Author", "USER_CANNOT_DELETE_POST_EXCEPTION"
+)
